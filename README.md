@@ -1,4 +1,4 @@
-# helo
+# README file
 
 
-# website
+Please read this file before running the application.
