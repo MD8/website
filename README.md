@@ -5,4 +5,6 @@ Updates made on master branch
 
 
 
-changes made
+## Getting started
+
+The following text will show the user how to get started 
